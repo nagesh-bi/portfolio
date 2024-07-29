@@ -89,14 +89,6 @@ body {
     transform: rotate(-16deg);
 }
 
-.sidebar_container .sidebar_content {
-    position: absolute;
-    width: 100%;
-    margin-top: 2rem;
-    text-align: center;
-    padding: 0.4rem;
-}
-
 .sidebar_container .sidebar_content h1 {
     color: black;
     font-size: 2rem;
